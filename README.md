@@ -173,11 +173,11 @@ No single algorithm is assumed to be universally best. Model selection is perfor
 
 When the notebook is executed, it creates organised directories for:
 
-* figures;
-* tables;
-* trained models;
-* exports;
-* dashboard assets; and
+* figures
+* tables
+* trained models
+* exports
+* dashboard assets and
 * reproducibility requirements.
 
 
