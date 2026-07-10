@@ -109,13 +109,13 @@ The framework can be adapted to other countries or regions because the original 
 
 To apply the framework elsewhere:
 
-1. download the required climate and agricultural records for the selected country or region;
-2. standardise year fields, variable names, units, and geographic identifiers;
-3. apply the preprocessing and annual aggregation procedures documented in the notebook;
-4. recalculate climate and vegetation anomalies using suitable regional baselines;
-5. select locally relevant representative crops;
-6. retrain and evaluate the machine-learning models using the regional data;
-7. recalculate scenario responses, forecasts, and vulnerability rankings; and
+1. download the required climate and agricultural records for the selected country or region
+2. standardise year fields, variable names, units, and geographic identifiers
+3. apply the preprocessing and annual aggregation procedures documented in the notebook
+4. recalculate climate and vegetation anomalies using suitable regional baselines
+5. select locally relevant representative crops
+6. retrain and evaluate the machine-learning models using the regional data
+7. recalculate scenario responses, forecasts, and vulnerability rankings and
 8. update the decision-support dashboard with the new regional outputs.
 
 Because agricultural systems differ across locations, model results should be interpreted within the local climatic, agronomic, socioeconomic, and data-availability context.
