@@ -219,112 +219,54 @@ kenya-climate-agriculture-decision-support-system/
 
 ---
 
-## Repository Outputs
+## Repository outputs
 
-When the notebook is executed, it creates organised outputs for:
+When the notebook is executed, it creates organised directories for:
 
-- publication figures;
-- result tables;
-- trained models;
-- exported analytical files;
-- dashboard assets; and
-- reproducibility requirements.
+* figures
+* tables
+* trained models
+* exports
+* dashboard assets and
+* reproducibility requirements.
 
-Publication figures and result tables retain numbered filenames so they can be mapped consistently to the accompanying research report.
-
----
-
-## Running the Experiment
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/KimaniMbugua/kenya-climate-agriculture-decision-support-system.git
-cd kenya-climate-agriculture-decision-support-system
-```
-
-### 2. Install the Required Packages
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Open the Notebook
-
-Open:
-
-```text
-Climate_Agriculture_Decision_Support_System.ipynb
-```
-
-in Google Colab, JupyterLab, or Jupyter Notebook.
-
-### 4. Execute the Workflow
-
-1. Run the environment-setup cells.
-2. Execute the notebook from top to bottom.
-3. Confirm that the source datasets are accessible.
-4. Review the generated tables and figures.
-5. Launch the interactive dashboard after the analytical sections have completed.
-
----
 
 ## Visual Asset Notice
 
 The dashboard was developed using agricultural photographs and interface assets obtained from publicly accessible online sources for academic research and prototype development. Ownership remains with the original creators.
 
-Where licensing information was available, it is documented in [`docs/ASSET_ATTRIBUTION.md`](docs/ASSET_ATTRIBUTION.md). Visual assets without a verified redistribution licence are not covered by any software licence applied to this repository and should not be reused independently without permission from the relevant rights holder.
+Where licensing information was available, it has been documented in `docs/ASSET_ATTRIBUTION.md`. Visual assets without a verified redistribution licence are not covered by any software licence applied to this repository and should not be reused independently without permission from the relevant rights holder
 
----
+Publication figures and result tables retain their numbered filenames so they can be mapped consistently to the accompanying research report.
 
-## Responsible Interpretation
+## Running the experiment
 
-The outputs are national-level, annual, model-based estimates. Crop productivity is also affected by soil conditions, irrigation, fertiliser use, crop varieties, pests, diseases, management practices, markets, and policy conditions that are not fully represented in the available datasets.
+1. Use Python 3.10 or later.
+2. Open the notebook in Google Colab, JupyterLab, or Jupyter Notebook.
+3. Run the environment-setup cells.
+4. Execute the notebook from top to bottom.
+5. Confirm that the source-data links are accessible.
+6. Review the generated tables and figures.
+7. Launch the dashboard only after the analytical sections have completed.
 
-Negative or weak out-of-sample R² values should be interpreted as evidence of prediction difficulty and omitted-variable limitations rather than concealed or corrected.
+Install the required packages with:
 
-Scenario results are statistical responses of trained machine-learning models, not deterministic biophysical projections. Feature-importance and SHAP results describe predictive influence and do not establish causality. The composite vulnerability index is a comparative screening tool and does not represent complete socioeconomic vulnerability.
-
----
-
-## Main Notebook
-
-The complete analytical workflow is available in:
-
-[`Climate_Agriculture_Decision_Support_System.ipynb`](Climate_Agriculture_Decision_Support_System.ipynb)
-
-The notebook contains:
-
-- data loading;
-- preprocessing and integration;
-- feature engineering;
-- exploratory analysis;
-- statistical testing;
-- machine-learning modelling;
-- model comparison;
-- explainable AI;
-- climate-scenario simulation;
-- recursive forecasting;
-- vulnerability ranking; and
-- interactive dashboard development.
-
----
-
-## Citation
-
-Suggested citation:
-
-```text
-Kimani, S. (2026). Climate–Agriculture Decision Support System: An Explainable
-Machine-Learning Framework for Climate-Impact Assessment, Crop-Yield Forecasting,
-Scenario Simulation, and Vulnerability Analysis in Kenya. GitHub repository.
-https://github.com/KimaniMbugua/kenya-climate-agriculture-decision-support-system
+```bash
+pip install -r requirements/requirements.txt
 ```
 
----
+## Responsible interpretation
+
+The outputs are national-level, annual, model-based estimates. Crop productivity is also affected by soil conditions, irrigation, fertiliser use, cultivars, pests, diseases, management practices, markets, and policy conditions that are not fully represented in the available datasets. Negative or weak out-of-sample R² values should therefore be interpreted as evidence of prediction difficulty and omitted-variable limitations rather than hidden or corrected.
+
+Scenario results are statistical responses of trained machine-learning models, not deterministic biophysical projections. Feature-importance and SHAP results describe predictive influence and do not establish causality. The composite vulnerability index is a comparative screening tool and does not represent complete socioeconomic vulnerability.
 
 ## Author
 
 **Samuel Kimani**
+
+Copyright © Samuel Kimani.
+
+
 
 Copyright © 2026 Samuel Kimani.
