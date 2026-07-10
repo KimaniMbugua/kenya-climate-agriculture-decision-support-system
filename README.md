@@ -95,10 +95,7 @@ The original data platforms provide broader geographic coverage. Researchers wis
 ### Official Data Portals
 
 - **World Bank Climate Change Knowledge Portal:** https://climateknowledgeportal.worldbank.org/
-- **World Bank Climate Change Knowledge Portal — Kenya:** https://climateknowledgeportal.worldbank.org/country/kenya
 - **FAOSTAT:** https://www.fao.org/faostat/en/#home
-- **FAOSTAT Data Portal:** https://www.fao.org/faostat/en/#data
-- **FAO Pesticides Use and Trade, 1990–2023:** https://www.fao.org/statistics/highlights-archive/highlights-detail/pesticides-use-and-trade-1990-2023/en
 
 The complete multivariable modelling window is constrained by the common overlap of the selected variables. Pesticide-use data begin in 1990, so the full integrated model uses the common period available after merging. Longer climate–yield analyses are retained where the relevant variables permit.
 
