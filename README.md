@@ -72,6 +72,7 @@ The experiment is designed to:
 7. generate recursive future-yield forecasts with approximate uncertainty intervals
 8. rank representative crops using a composite climate-vulnerability index and
 9. communicate the results through an interactive decision-support dashboard.
+
 ---
 
 ## Data Sources and Provenance
