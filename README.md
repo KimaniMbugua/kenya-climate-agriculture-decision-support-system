@@ -16,7 +16,7 @@ The system is intended to support researchers, agricultural planners, policy ana
 
 The platform is a **decision-support and research system**. It is not a physical crop-growth model, a causal-inference system, or a farm-level advisory service.
 
----
+--
 
 ## System Interface
 
