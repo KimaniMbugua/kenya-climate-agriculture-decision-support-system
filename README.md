@@ -97,11 +97,11 @@ The notebook uses public or project-accessible extracts from recognised internat
 
 |Dataset|Primary source|Coverage used in the project|Working dataset link|
 |-|-|-:|-|
-|Rainfall|World Bank climate data|1950–2024|https://docs.google.com/spreadsheets/d/1OKdDEATyEB7fgy\_FGhvCf6cqqEjZKXS6/export?format=csv|
-|Temperature|World Bank climate data|1950–2023|https://drive.google.com/uc?id=1MvoM2C2XFEwW86K-mQG1nLEHsD7bx6Cp|
-|Crop yield|FAO/FAOSTAT|1961–2024|https://drive.google.com/uc?id=1rRKWzLpK4wBtMUgvCU1PthKlEXu6ESom|
-|Pesticide use|FAO/FAOSTAT|1990–2023|https://drive.google.com/uc?id=1ONGYMRV0lri6F2oyr6Uwl7RkS22UY1Mm|
-|NDVI-related vegetation data|FAO-derived project extract|1984–2026|https://drive.google.com/uc?id=1KqGksmZLx7-7nrajwnb3VaRq7zoFadXh|
+|Rainfall|World Bank climate data|1950–2024|[https://docs.google.com/spreadsheets/d/1OKdDEATyEB7fgy\_FGhvCf6cqqEjZKXS6/export?format=csv](https://docs.google.com/spreadsheets/d/1OKdDEATyEB7fgy_FGhvCf6cqqEjZKXS6/edit?usp=sharing&ouid=108970848004611596387&rtpof=true&sd=true)|
+|Temperature|World Bank climate data|1950–2023|[https://drive.google.com/uc?id=1MvoM2C2XFEwW86K-mQG1nLEHsD7bx6Cp](https://drive.google.com/file/d/1MvoM2C2XFEwW86K-mQG1nLEHsD7bx6Cp/view?usp=sharing)|
+|Crop yield|FAO/FAOSTAT|1961–2024|[https://drive.google.com/uc?id=1rRKWzLpK4wBtMUgvCU1PthKlEXu6ESom](https://drive.google.com/file/d/1rRKWzLpK4wBtMUgvCU1PthKlEXu6ESom/view?usp=sharing)|
+|Pesticide use|FAO/FAOSTAT|1990–2023|[https://drive.google.com/uc?id=1ONGYMRV0lri6F2oyr6Uwl7RkS22UY1Mm](https://drive.google.com/file/d/1ONGYMRV0lri6F2oyr6Uwl7RkS22UY1Mm/view?usp=sharing)|
+|NDVI-related vegetation data|FAO-derived project extract|1984–2026|[https://drive.google.com/uc?id=1KqGksmZLx7-7nrajwnb3VaRq7zoFadXh](https://drive.google.com/file/d/1KqGksmZLx7-7nrajwnb3VaRq7zoFadXh/view?usp=sharing)|
 
 Official source portals:
 
