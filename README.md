@@ -63,16 +63,15 @@ The five representative crops cover different agricultural roles:
 
 The experiment is designed to:
 
-1. assess long-term trends in temperature, rainfall, vegetation condition, and crop yield;
-2. quantify crop-specific relationships between climate indicators and agricultural productivity;
-3. compare baseline, linear, regularised, ensemble, and boosting regression algorithms;
-4. distinguish climate-impact interpretation from operational forecasting through separate feature sets;
-5. explain model behaviour using permutation importance and SHAP where applicable;
-6. simulate crop-yield responses under selected temperature and rainfall scenarios;
-7. generate recursive future-yield forecasts with approximate uncertainty intervals;
-8. rank representative crops using a composite climate-vulnerability index; and
-9. communicate results through an interactive decision-support dashboard.
-
+1. assess long-term trends in temperature, rainfall, vegetation condition, and crop yield
+2. quantify crop-specific relationships between climate indicators and agricultural productivity
+3. compare baseline, linear, regularised, ensemble, and boosting regression algorithms
+4. distinguish climate-impact interpretation from operational forecasting through separate feature sets
+5. explain model behaviour using permutation importance and SHAP where applicable
+6. simulate crop-yield responses under selected temperature and rainfall scenarios
+7. generate recursive future-yield forecasts with approximate uncertainty intervals
+8. rank representative crops using a composite climate-vulnerability index and
+9. communicate the results through an interactive decision-support dashboard.
 ---
 
 ## Data Sources and Provenance
