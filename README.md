@@ -95,13 +95,14 @@ Because agricultural systems differ across countries, model results should be in
 
 The notebook uses public or project-accessible extracts from recognised international data sources. The working files are loaded directly from the links below.
 
-|Dataset|Primary source|Coverage used in the project|
-|-|-|-:|-|
-|Rainfall|World Bank climate data|1950–2024|
-|Temperature|World Bank climate data|1950–2023|
-|Crop yield|FAO|1961–2024|
-|Pesticide use|FAO|
-|NDVI-related vegetation data|FAO-derived project extract|
+| Dataset | Primary source | Coverage used in the project |
+|---|---|---:|
+| Rainfall | World Bank Climate Change Knowledge Portal | 1950–2024 |
+| Temperature | World Bank Climate Change Knowledge Portal | 1950–2023 |
+| Crop yield | FAO/FAOSTAT | 1961–2024 |
+| Pesticide use | FAO/FAOSTAT | 1990–2023 |
+| NDVI-related vegetation data | FAO-derived project extract | 1984–2026 |
+
 
 Official source portals:
 
