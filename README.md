@@ -92,7 +92,7 @@ The original data platforms provide broader geographic coverage. Researchers wis
 
 The complete multivariable modelling window is constrained by the common overlap of the selected variables. Pesticide-use data begin in 1990, so the full integrated model uses the common period available after merging. Longer climate–yield analyses are retained where the relevant variables permit.
 
-Detailed provenance, preprocessing notes, limitations, and regional adaptation guidance are available in [`docs/DATA_SOURCES.md`](docs/DATA_SOURCES.md).
+Detailed provenance, preprocessing notes, limitations, and regional adaptation guidance are available in `docs/DATA_SOURCES.md`.
 
 ---
 
