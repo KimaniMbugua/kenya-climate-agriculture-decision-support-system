@@ -265,7 +265,4 @@ Scenario results are statistical responses of trained machine-learning models, n
 
 **Samuel Kimani**
 
-Copyright 2026 © Samuel Kimani.
-
-
 Copyright © 2026 Samuel Kimani.
