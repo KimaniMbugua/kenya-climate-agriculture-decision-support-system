@@ -95,14 +95,13 @@ Because agricultural systems differ across countries, model results should be in
 
 The notebook uses public or project-accessible extracts from recognised international data sources. The working files are loaded directly from the links below.
 
-| Dataset | Primary source | Coverage used in the project |
-|---|---|---:|
-| Rainfall | World Bank (Climate Change Knowledge Portal) | 1950–2024 |
-| Temperature | World Bank (Climate Change Knowledge Portal) | 1950–2023 |
-| Crop yield | FAO (FAOSTAT) | 1961–2024 |
-| Pesticide use | FAO (FAOSTAT) | 1990–2023 |
-| NDVI-related vegetation data | FAO (Derived project extract) | 1984–2026 |
-
+|Dataset|Primary source|Coverage used in the project|Working dataset link|
+|-|-|-:|-|
+|Rainfall|World Bank climate data|1950–2024|https://docs.google.com/spreadsheets/d/1OKdDEATyEB7fgy\_FGhvCf6cqqEjZKXS6/export?format=csv|
+|Temperature|World Bank climate data|1950–2023|https://drive.google.com/uc?id=1MvoM2C2XFEwW86K-mQG1nLEHsD7bx6Cp|
+|Crop yield|FAO/FAOSTAT|1961–2024|https://drive.google.com/uc?id=1rRKWzLpK4wBtMUgvCU1PthKlEXu6ESom|
+|Pesticide use|FAO/FAOSTAT|1990–2023|https://drive.google.com/uc?id=1ONGYMRV0lri6F2oyr6Uwl7RkS22UY1Mm|
+|NDVI-related vegetation data|FAO-derived project extract|1984–2026|https://drive.google.com/uc?id=1KqGksmZLx7-7nrajwnb3VaRq7zoFadXh|
 
 Official source portals:
 
@@ -113,13 +112,6 @@ Official source portals:
 The complete multivariable modelling window is constrained by the common overlap of the selected variables. Pesticide-use data begin in 1990, so the full integrated model uses the common period available after merging. Longer climate–yield analyses are retained where the relevant variables permit.
 
 ## Analytical workflow
-
-The methodological workflow below summarises the order in which the experiment progresses from climate and agricultural data acquisition through preprocessing, statistical analysis, machine-learning modelling, explainable AI, scenario simulation, forecasting, vulnerability assessment, and decision-support delivery. It provides a visual guide to the complete analytical process before the detailed steps are presented.
-
-<p align="center">
-  <img src="outputs/figures/Figure_4_15_Climate_Decision_Support_System_Methodological_Workflow.png" alt="Climate Decision Support System Methodological Workflow" width="100%">
-</p>
-
 
 1. **Environment setup and reproducibility files**  
 Prepare the Python environment and document the required software packages.
@@ -181,11 +173,11 @@ No single algorithm is assumed to be universally best. Model selection is perfor
 
 When the notebook is executed, it creates organised directories for:
 
-* figures
-* tables
-* trained models
-* exports
-* dashboard assets and
+* figures;
+* tables;
+* trained models;
+* exports;
+* dashboard assets; and
 * reproducibility requirements.
 
 
