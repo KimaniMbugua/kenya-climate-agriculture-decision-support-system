@@ -1,0 +1,3 @@
+﻿Feature_Set,Number_of_Features,Purpose,Features
+Climate-only,7,Climate impact interpretation,"Temperature_anomaly_C, Rainfall_anomaly_pct, N..."
+Climate+Lag,11,Operational forecasting,"Temperature_C, Rainfall_mm, Temperature_anomal..."

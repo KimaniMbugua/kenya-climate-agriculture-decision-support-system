@@ -1,0 +1,6 @@
+﻿Dataset,Rows,Columns,First year,Last year,Missing cells
+rainfall,900,5,1950,2024,0
+temperature,888,5,1950,2023,0
+yield,4396,7,1961,2024,0
+pesticides,34,7,1990,2023,0
+ndvi,12176,13,1984,2026,0

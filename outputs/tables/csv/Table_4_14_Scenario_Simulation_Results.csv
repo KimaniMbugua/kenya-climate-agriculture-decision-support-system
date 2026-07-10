@@ -1,0 +1,41 @@
+﻿Crop,Scenario,Scenario_Temp_Delta_C,Scenario_Rainfall_Delta_Pct,Baseline_Prediction,Scenario_Prediction,Change_pct,Risk_Level
+Avocados,Baseline,0,0,156414.236,156414.236,0.0,Low / stable impact
+Avocados,Drying (-10% rainfall),0,-10,156414.236,156200.868,-0.136,Low / stable impact
+Avocados,High warming (+3C),3,0,156414.236,156414.236,0.0,Low / stable impact
+Avocados,High warming + severe drying,3,-20,156414.236,156126.076,-0.184,Low / stable impact
+Avocados,Low warming (+1C),1,0,156414.236,156414.236,0.0,Low / stable impact
+Avocados,Moderate warming (+2C),2,0,156414.236,156414.236,0.0,Low / stable impact
+Avocados,Moderate warming + drying,2,-10,156414.236,156200.868,-0.136,Low / stable impact
+Avocados,Severe drying (-20% rainfall),0,-20,156414.236,156126.076,-0.184,Low / stable impact
+Avocados,Wetter (+15% rainfall),0,15,156414.236,156505.668,0.058,Low / stable impact
+Bananas,Baseline,0,0,205845.886,228162.425,10.841,Positive / opportunity
+Bananas,Drying (-10% rainfall),0,-10,205845.886,232258.128,12.831,Positive / opportunity
+Bananas,High warming (+3C),3,0,205845.886,547106.627,165.785,Positive / opportunity
+Bananas,High warming + severe drying,3,-20,205845.886,544307.611,164.425,Positive / opportunity
+Bananas,Low warming (+1C),1,0,205845.886,316526.725,53.769,Positive / opportunity
+Bananas,Moderate warming (+2C),2,0,205845.886,431816.676,109.777,Positive / opportunity
+Bananas,Moderate warming + drying,2,-10,205845.886,435912.379,111.766,Positive / opportunity
+Bananas,Severe drying (-20% rainfall),0,-20,205845.886,225363.409,9.482,Positive / opportunity
+Bananas,Wetter (+15% rainfall),0,15,205845.886,237425.63,15.341,Positive / opportunity
+Potatoes,Baseline,0,0,136904.932,136912.536,0.006,Low / stable impact
+Potatoes,Drying (-10% rainfall),0,-10,136904.932,134655.071,-1.643,Low / stable impact
+Potatoes,High warming (+3C),3,0,136904.932,135919.229,-0.72,Low / stable impact
+Potatoes,High warming + severe drying,3,-20,136904.932,103694.671,-24.258,High negative impact
+Potatoes,Low warming (+1C),1,0,136904.932,135919.229,-0.72,Low / stable impact
+Potatoes,Moderate warming (+2C),2,0,136904.932,135919.229,-0.72,Low / stable impact
+Potatoes,Moderate warming + drying,2,-10,136904.932,133259.101,-2.663,Low / stable impact
+Potatoes,Severe drying (-20% rainfall),0,-20,136904.932,105743.143,-22.762,High negative impact
+Potatoes,Wetter (+15% rainfall),0,15,136904.932,139044.708,1.563,Low / stable impact
+Sugar cane,Baseline,0,0,743112.272,705481.266,-5.064,Moderate negative impact
+Sugar cane,Drying (-10% rainfall),0,-10,743112.272,743676.381,0.076,Low / stable impact
+Sugar cane,High warming (+3C),3,0,743112.272,785803.185,5.745,Positive / opportunity
+Sugar cane,High warming + severe drying,3,-20,743112.272,837000.56,12.634,Positive / opportunity
+Sugar cane,Low warming (+1C),1,0,743112.272,755318.183,1.643,Low / stable impact
+Sugar cane,Moderate warming (+2C),2,0,743112.272,770560.684,3.694,Low / stable impact
+Sugar cane,Moderate warming + drying,2,-10,743112.272,808755.799,8.834,Positive / opportunity
+Sugar cane,Severe drying (-20% rainfall),0,-20,743112.272,756678.641,1.826,Low / stable impact
+Sugar cane,Wetter (+15% rainfall),0,15,743112.272,767867.271,3.331,Low / stable impact
+Tomatoes,Baseline,0,0,199083.089,199083.089,0.0,Low / stable impact
+Tomatoes,Drying (-10% rainfall),0,-10,199083.089,186510.26,-6.315,Moderate negative impact
+Tomatoes,High warming (+3C),3,0,199083.089,215670.491,8.332,Positive / opportunity
+Tomatoes,High warming + severe drying,3,-20,199083.089,204433.801,2.688,Low / stable impact

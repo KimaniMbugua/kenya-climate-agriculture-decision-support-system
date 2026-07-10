@@ -1,0 +1,21 @@
+﻿Crop,Variable,ADF statistic,ADF p-value,KPSS statistic,KPSS p-value
+Avocados,Yield_hg_ha,-3.902,0.002,0.668,0.016
+Avocados,Rainfall_anomaly_pct,-4.501,0.0,0.101,0.1
+Avocados,Temperature_anomaly_C,-0.993,0.756,0.84,0.01
+Avocados,NDVI_anomaly,-5.836,0.0,0.093,0.1
+Bananas,Yield_hg_ha,-1.448,0.559,0.798,0.01
+Bananas,Rainfall_anomaly_pct,-4.501,0.0,0.101,0.1
+Bananas,Temperature_anomaly_C,-0.993,0.756,0.84,0.01
+Bananas,NDVI_anomaly,-5.836,0.0,0.093,0.1
+Potatoes,Yield_hg_ha,-1.687,0.438,0.194,0.1
+Potatoes,Rainfall_anomaly_pct,-4.501,0.0,0.101,0.1
+Potatoes,Temperature_anomaly_C,-0.993,0.756,0.84,0.01
+Potatoes,NDVI_anomaly,-5.836,0.0,0.093,0.1
+Sugar cane,Yield_hg_ha,-3.716,0.004,0.267,0.1
+Sugar cane,Rainfall_anomaly_pct,-4.501,0.0,0.101,0.1
+Sugar cane,Temperature_anomaly_C,-0.993,0.756,0.84,0.01
+Sugar cane,NDVI_anomaly,-5.836,0.0,0.093,0.1
+Tomatoes,Yield_hg_ha,-2.357,0.154,0.412,0.072
+Tomatoes,Rainfall_anomaly_pct,-4.501,0.0,0.101,0.1
+Tomatoes,Temperature_anomaly_C,-0.993,0.756,0.84,0.01
+Tomatoes,NDVI_anomaly,-5.836,0.0,0.093,0.1

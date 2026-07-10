@@ -1,0 +1,16 @@
+﻿Figure,Title,PNG file,Notebook cell
+Figure 4.1,Climate Trends Temperature Rainfall NDVI,Figure_4_01_Climate_Trends_Temperature_Rainfall_NDVI.png,37
+Figure 4.2,Indexed Yield Trends Representative Crops,Figure_4_02_Indexed_Yield_Trends_Representative_Crops.png,42
+Figure 4.3,Actual Crop Specific Yield Trends,Figure_4_03_Actual_Crop_Specific_Yield_Trends.png,42
+Figure 4.4,Climate Yield Correlation Matrix,Figure_4_04_Climate_Yield_Correlation_Matrix.png,47
+Figure 4.5,VIF Multicollinearity Diagnostics,Figure_4_05_VIF_Multicollinearity_Diagnostics.png,47
+Figure 4.6,RMSE Heatmap Climate Only,Figure_4_06_RMSE_Heatmap_Climate_Only.png,56
+Figure 4.7,RMSE Heatmap Climate plus Lag,Figure_4_07_RMSE_Heatmap_Climate_plus_Lag.png,56
+Figure 4.8,Selected Best Model RMSE,Figure_4_08_Selected_Best_Model_RMSE.png,56
+Figure 4.9,Selected Best Model R2,Figure_4_09_Selected_Best_Model_R2.png,56
+Figure 4.10,Explainable AI Feature Ranking Matrix,Figure_4_10_Explainable_AI_Feature_Ranking_Matrix.png,63
+Figure 4.11,Climate Scenario Impact Heatmap,Figure_4_11_Climate_Scenario_Impact_Heatmap.png,68
+Figure 4.12,Temperature Rainfall Sensitivity Curves,Figure_4_12_Temperature_Rainfall_Sensitivity_Curves.png,68
+Figure 4.13,Recursive Yield Forecasts with 95pct Prediction Intervals,Figure_4_13_Recursive_Yield_Forecasts_with_95pct_Prediction_Intervals.png,73
+Figure 4.14,Composite Climate Vulnerability Ranking,Figure_4_14_Composite_Climate_Vulnerability_Ranking.png,78
+Figure 4.15,Climate Decision Support System Methodological Workflow,Figure_4_15_Climate_Decision_Support_System_Methodological_Workflow.png,81

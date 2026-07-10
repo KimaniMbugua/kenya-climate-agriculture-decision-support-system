@@ -1,0 +1,4 @@
+﻿Variable,Sen slope / year,Linear p-value,Kendall tau,Mann-Kendall p-value,Linear r
+Temperature_C,0.032,0.0,0.667,0.0,0.86
+Rainfall_mm,-0.827,0.74,-0.016,0.894,-0.059
+NDVI_anomaly,0.0,0.835,-0.055,0.646,0.037

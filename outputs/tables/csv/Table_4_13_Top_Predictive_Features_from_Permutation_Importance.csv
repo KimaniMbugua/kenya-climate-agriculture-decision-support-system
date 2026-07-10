@@ -1,0 +1,16 @@
+﻿Crop,Feature,Importance_mean,Importance_std
+Avocados,Temperature_anomaly_C,354.711,3396.204
+Avocados,Pesticides_tonnes,0.0,0.0
+Avocados,Heat_stress,0.0,0.0
+Bananas,Temperature_anomaly_C,12952.498,8233.604
+Bananas,Rainfall_anomaly_pct,7639.874,4137.112
+Bananas,Heat_stress,3079.608,4592.152
+Potatoes,Drought_indicator,1130.73,1293.608
+Potatoes,NDVI_anomaly,117.27,914.587
+Potatoes,Wet_indicator,112.457,144.83
+Sugar cane,Rainfall_anomaly_pct,81254.256,27647.821
+Sugar cane,Wet_indicator,40210.014,15972.158
+Sugar cane,NDVI_anomaly,19486.862,9154.933
+Tomatoes,NDVI_anomaly,5634.884,3092.55
+Tomatoes,Rainfall_anomaly_pct,2217.119,1512.935
+Tomatoes,Temperature_anomaly_C,1823.9,3182.247

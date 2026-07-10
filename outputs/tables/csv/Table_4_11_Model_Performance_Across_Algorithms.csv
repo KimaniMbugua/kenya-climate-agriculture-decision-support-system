@@ -1,0 +1,12 @@
+﻿Feature_Set,Crop,Model,R2,MAE,RMSE,MAPE,CV_RMSE_mean,CV_RMSE_std
+Climate+Lag,Avocados,XGBoost,-0.186,24024.359,25883.479,15.528,38508.763,23293.244
+Climate+Lag,Avocados,CatBoost,-0.187,24363.263,25890.910,15.522,30325.046,20437.921
+Climate+Lag,Avocados,Random Forest,-0.195,24810.166,25981.589,16.071,28006.411,18872.502
+Climate+Lag,Avocados,Ridge Regression,-0.289,23776.064,26989.338,15.751,58596.490,41192.505
+Climate+Lag,Avocados,Linear Regression,-0.335,24152.996,27461.478,16.051,68630.840,50107.325
+...,...,...,...,...,...,...,...,...
+Climate-only,Tomatoes,Random Forest,-0.396,33409.912,40327.942,15.165,65613.166,20800.027
+Climate-only,Tomatoes,Bayesian Ridge,-0.639,32167.469,43696.485,13.093,74229.697,12469.965
+Climate-only,Tomatoes,Naive Mean,-0.639,32167.469,43696.485,13.093,74229.697,12469.965
+Climate-only,Tomatoes,Ridge Regression,-2.506,42539.022,63902.839,17.925,54977.864,19225.882
+Climate-only,Tomatoes,Linear Regression,-2.935,47050.058,67704.283,19.997,50854.010,16674.556

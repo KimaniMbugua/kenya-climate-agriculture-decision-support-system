@@ -1,0 +1,17 @@
+﻿Table,Title,Rows extracted,Columns,CSV file,HTML file,Notebook display truncated
+Table 4.1,Data Quality Summary,5,6,csv/Table_4_01_Data_Quality_Summary.csv,html/Table_4_01_Data_Quality_Summary.html,No
+Table 4.2,Representative Crop Summary,5,6,csv/Table_4_02_Representative_Crop_Summary.csv,html/Table_4_02_Representative_Crop_Summary.html,No
+Table 4.3,Integrated Modelling Dataset Summary,1,5,csv/Table_4_03_Integrated_Modelling_Dataset_Summary.csv,html/Table_4_03_Integrated_Modelling_Dataset_Summary.html,No
+Table 4.4,Feature Set Summary,2,4,csv/Table_4_04_Feature_Set_Summary.csv,html/Table_4_04_Feature_Set_Summary.html,No
+Table 4.5,Climate Trend Test Results,3,6,csv/Table_4_05_Climate_Trend_Test_Results.csv,html/Table_4_05_Climate_Trend_Test_Results.html,No
+Table 4.6,Crop-Specific Yield Trend Results,5,4,csv/Table_4_06_Crop_Specific_Yield_Trend_Results.csv,html/Table_4_06_Crop_Specific_Yield_Trend_Results.html,No
+Table 4.7,Climate-Yield Correlation Results,20,6,csv/Table_4_07_Climate_Yield_Correlation_Results.csv,html/Table_4_07_Climate_Yield_Correlation_Results.html,No
+Table 4.8,ADF and KPSS Stationarity Results,20,6,csv/Table_4_08_ADF_and_KPSS_Stationarity_Results.csv,html/Table_4_08_ADF_and_KPSS_Stationarity_Results.html,No
+Table 4.9,VIF Multicollinearity Results,7,2,csv/Table_4_09_VIF_Multicollinearity_Results.csv,html/Table_4_09_VIF_Multicollinearity_Results.html,No
+Table 4.10,Durbin-Watson Residual Diagnostic Results,5,2,csv/Table_4_10_Durbin_Watson_Residual_Diagnostic_Results.csv,html/Table_4_10_Durbin_Watson_Residual_Diagnostic_Results.html,No
+Table 4.11,Model Performance Across Algorithms,11,9,csv/Table_4_11_Model_Performance_Across_Algorithms.csv,html/Table_4_11_Model_Performance_Across_Algorithms.html,Yes
+Table 4.12,Selected Best Model by Crop and Feature Set,10,9,csv/Table_4_12_Selected_Best_Model_by_Crop_and_Feature_Set.csv,html/Table_4_12_Selected_Best_Model_by_Crop_and_Feature_Set.html,No
+Table 4.13,Top Predictive Features from Permutation Importance,15,4,csv/Table_4_13_Top_Predictive_Features_from_Permutation_Importance.csv,html/Table_4_13_Top_Predictive_Features_from_Permutation_Importance.html,No
+Table 4.14,Scenario Simulation Results,40,8,csv/Table_4_14_Scenario_Simulation_Results.csv,html/Table_4_14_Scenario_Simulation_Results.html,No
+Table 4.15,Forecasted Yield Values and Uncertainty Intervals,50,10,csv/Table_4_15_Forecasted_Yield_Values_and_Uncertainty_Intervals.csv,html/Table_4_15_Forecasted_Yield_Values_and_Uncertainty_Intervals.html,No
+Table 4.16,Composite Crop Vulnerability Ranking,5,7,csv/Table_4_16_Composite_Crop_Vulnerability_Ranking.csv,html/Table_4_16_Composite_Crop_Vulnerability_Ranking.html,No
