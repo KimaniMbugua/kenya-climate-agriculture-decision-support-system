@@ -10,7 +10,6 @@ The **Climate Decision Support System** is a reproducible climate–agriculture 
 
 The system is intended to support researchers, agricultural planners, policy analysts, students, and other users who need a national-level view of how climate variability and long-term climate change may relate to agricultural productivity in Kenya. It is a decision-support and research platform rather than a physical crop-growth model, a causal inference system, or a farm-level advisory service.
 
---
 
 ## System Interface
 
