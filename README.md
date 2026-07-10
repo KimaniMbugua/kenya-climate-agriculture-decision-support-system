@@ -4,18 +4,11 @@ An explainable machine-learning platform for analysing climate impacts on agricu
 
 ---
 
-## Project Purpose
+## Project purpose
 
-The **Climate–Agriculture Decision Support System** is a reproducible climate–agriculture analytics platform developed from the research project:
+The **Climate Decision Support System** is a reproducible climate–agriculture analytics platform for Kenya. It was developed from the research project **“The Prediction of the Impact of Climate Change on Agricultural Productivity in Kenya Using Machine Learning.”** The project brings together long-term climate records, crop-yield observations, pesticide-use indicators, vegetation information, statistical analysis, machine-learning models, explainable artificial intelligence, climate-scenario simulation, recursive forecasting, and crop-vulnerability ranking in one transparent workflow.
 
-> **The Prediction of the Impact of Climate Change on Agricultural Productivity in Kenya Using Machine Learning**
-
-The project integrates long-term climate records, crop-yield observations, pesticide-use indicators, vegetation information, statistical analysis, machine-learning models, explainable artificial intelligence, climate-scenario simulation, recursive forecasting, and crop-vulnerability ranking in one transparent workflow.
-
-The system is intended to support researchers, agricultural planners, policy analysts, students, and other users who need a national-level understanding of how climate variability and long-term climate change may relate to agricultural productivity in Kenya.
-
-The platform is a **decision-support and research system**. It is not a physical crop-growth model, a causal-inference system, or a farm-level advisory service.
-
+The system is intended to support researchers, agricultural planners, policy analysts, students, and other users who need a national-level view of how climate variability and long-term climate change may relate to agricultural productivity in Kenya. It is a decision-support and research platform rather than a physical crop-growth model, a causal inference system, or a farm-level advisory service.
 --
 
 ## System Interface
