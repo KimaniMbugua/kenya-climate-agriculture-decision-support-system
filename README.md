@@ -85,11 +85,12 @@ The original data platforms provide broader geographic coverage. Researchers wis
 
 | Dataset | Primary source | Coverage used in the project |
 |---|---|---:|
-| Rainfall | World Bank Climate Change Knowledge Portal | 1950–2024 |
-| Temperature | World Bank Climate Change Knowledge Portal | 1950–2023 |
-| Crop yield | FAO/FAOSTAT | 1961–2024 |
-| Pesticide use | FAO/FAOSTAT | 1990–2023 |
-| NDVI-related vegetation data | FAO-derived project extract | 1984–2026 |
+| Rainfall | World Bank (Climate Change Knowledge Portal) | 1950–2024 |
+| Temperature | World Bank (Climate Change Knowledge Portal) | 1950–2023 |
+| Crop yield | FAO (FAOSTAT) | 1961–2024 |
+| Pesticide use | FAO (FAOSTAT) | 1990–2023 |
+| NDVI-related vegetation data | FAO (Derived project extract) | 1984–2026 |
+
 
 ### Official Data Portals
 
