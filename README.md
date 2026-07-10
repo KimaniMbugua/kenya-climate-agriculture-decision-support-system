@@ -122,57 +122,44 @@ Because agricultural systems differ across locations, model results should be in
 
 ---
 
-## Methodological Workflow
+## Methodological workflow
+
+The methodological workflow below summarises the order in which the experiment progresses from climate and agricultural data acquisition through preprocessing, statistical analysis, machine-learning modelling, explainable AI, scenario simulation, forecasting, vulnerability assessment, and decision-support delivery. It provides a visual guide to the complete analytical process before the detailed steps are presented.
 
 <p align="center">
   <img src="outputs/figures/Figure_4_15_Climate_Decision_Support_System_Methodological_Workflow.png" alt="Climate Decision Support System Methodological Workflow" width="100%">
 </p>
 
-The experiment follows these stages:
 
-1. **Environment setup and reproducibility**  
-   Prepare the Python environment and document the required software packages.
-
+1. **Environment setup and reproducibility files**  
+Prepare the Python environment and document the required software packages.
 2. **Data sourcing and quality assessment**  
-   Load the source datasets, inspect temporal coverage, verify fields, and summarise missingness.
-
+Load the source datasets, inspect coverage, verify fields, and summarise missingness.
 3. **Representative crop selection**  
-   Define the five crop case studies and document their agricultural roles.
-
+Define the five crop case studies and document their analytical roles.
 4. **Data preparation and integration**  
-   Aggregate annual climate variables, prepare agricultural variables, calculate annual NDVI anomaly, and merge the datasets by year.
-
+Aggregate annual climate variables, prepare agricultural variables, calculate annual NDVI anomaly, and merge the datasets by year.
 5. **Feature engineering**  
-   Construct rainfall, temperature, and NDVI anomalies; drought, wet, and heat-stress indicators; and lagged-yield predictors.
-
+Construct rainfall, temperature, and NDVI anomalies; drought, wet, and heat-stress indicators; and lagged-yield predictors.
 6. **Climate and crop-yield trend analysis**  
-   Apply linear trend estimation, Kendall-based trend tests, and Sen-slope approximations.
-
+Apply linear trend estimates, Kendall-based trend tests, and Sen-slope approximations.
 7. **Statistical validation**  
-   Evaluate Pearson and Spearman relationships, ADF and KPSS stationarity, Variance Inflation Factors, and residual autocorrelation.
-
+Evaluate Pearson and Spearman relationships, ADF and KPSS stationarity, Variance Inflation Factors, and residual autocorrelation.
 8. **Machine-learning modelling**  
-   Compare Naive Mean, Linear Regression, Ridge Regression, Bayesian Ridge, Random Forest, Gradient Boosting, XGBoost, and CatBoost using time-aware validation.
-
+Compare Naive Mean, Linear Regression, Ridge Regression, Bayesian Ridge, Random Forest, Gradient Boosting, XGBoost, and CatBoost using time-aware validation.
 9. **Model evaluation and selection**  
-   Report R², MAE, RMSE, MAPE, and cross-validation statistics. RMSE is used as the primary selection criterion and is interpreted alongside the other metrics.
-
+Report R², MAE, RMSE, MAPE, and cross-validation statistics. RMSE is used as the primary selection criterion, supported by the other metrics.
 10. **Explainable modelling**  
-    Use permutation importance and SHAP, where supported, to identify variables that influence predictions. These explanations are predictive rather than causal.
-
+Use permutation importance and SHAP, where supported, to identify variables that influence predictions. These explanations are predictive rather than causal.
 11. **Climate-scenario simulation**  
-    Modify temperature and rainfall inputs to assess how selected climate-impact models respond statistically.
-
+Modify temperature and rainfall inputs to assess how the selected climate-impact models respond statistically.
 12. **Recursive forecasting**  
-    Generate future crop-yield pathways from the operational climate-plus-lag models and estimate approximate prediction intervals.
-
+Generate future crop-yield paths from the operational climate-plus-lag models and estimate approximate prediction intervals.
 13. **Composite vulnerability ranking**  
-    Combine scenario sensitivity and forecast results into a comparative crop-level vulnerability index.
-
+Combine scenario sensitivity and forecast results into a comparative crop-level vulnerability index.
 14. **Interactive decision-support dashboard**  
-    Present national indicators, crop analysis, climate scenarios, yield forecasts, model interpretation, and vulnerability insights.
+Present national indicators, crop analysis, climate scenarios, yield forecasts, model interpretation, and vulnerability insights.
 
----
 
 ## Model Design
 
